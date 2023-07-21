@@ -15,4 +15,4 @@ En el presente repositorio se adjuntará el proyecto CueTracker.
 
 - FICHA 2687365
 
--El proyecto se encuentra comprimido en aracjivo .zip
+-El proyecto se encuentra comprimido en archivo .zip
