@@ -14,3 +14,5 @@ En el presente repositorio se adjuntará el proyecto CueTracker.
 - Brayan Grosso
 
 - FICHA 2687365
+
+-El proyecto se encuentra comprimido en aracjivo .zip
